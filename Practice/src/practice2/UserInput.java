@@ -27,6 +27,7 @@ public class UserInput {
 		
 		String str = sc.nextLine();
 		System.out.println(str);
+		System.out.println("Why the hell is this happening?");
 		
 	}
 	
