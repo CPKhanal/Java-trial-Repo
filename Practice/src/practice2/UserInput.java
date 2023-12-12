@@ -25,7 +25,7 @@ public class UserInput {
 		System.out.println(b1);
 		*/
 		
-		String str = sc.next();
+		String str = sc.nextLine();
 		System.out.println(str);
 		
 	}
