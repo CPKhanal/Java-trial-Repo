@@ -19,7 +19,7 @@ public class StringMethods {
 		
 		System.out.println(name.substring(8)); // substring
 		System.out.println(name.substring(8,15)); // starting is included but ending is not includes
-		System.out.println(name.replace('a', '*'));// replace the ond char with new char
+		System.out.println(name.replace('a', '*'));// replace the old char with new char
 		System.out.println(name.startsWith("Chand"));
 		System.out.println(name.endsWith("Anal"));
 		
