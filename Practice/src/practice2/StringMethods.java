@@ -2,7 +2,7 @@ package practice2;
 
 public class StringMethods {
 	public static void main(String[] args) {
-		
+		System.out.println("CP Khanal");
 		String name = "Chandra Prakash Khanal";
 		int value = name.length();
 		
