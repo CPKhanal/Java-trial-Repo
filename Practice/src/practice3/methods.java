@@ -12,7 +12,7 @@ public class methods {
 		}
 		return z;
 	}
-			
+		// Main Method	
 	public static void main(String[] args) {
 		
 	int a=5;
