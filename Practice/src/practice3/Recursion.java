@@ -1,6 +1,7 @@
 package practice3;
 
 public class Recursion {
+	// method 1
 	static int factorial (int n) {
 		if (n==0 || n==1) {
 			return 1;
@@ -9,7 +10,7 @@ public class Recursion {
 			return n * factorial(n-1);
 		}
 	}
-	
+	// Method 2
 		static int factorial_iterative (int n) {
 			if (n==0 || n==1) {
 				return 1;
