@@ -4,14 +4,14 @@ public class Exercise5 {
 	public static void main(String[] args) {
 		
 		// Problem 1  Prints the star pattern
-		 /*int n=4;
+		 int n=4;
 		for (int i=n; i>0; i--) {
 			for (int j=0; j<i; j++) {
 			
 			System.out.print("*");
 			}
 			System.out.print("\n");
-		} */
+		} 
 		
 		// Problem 2  Sum of even numbers
 		 /*int sum = 0;
@@ -81,7 +81,7 @@ public class Exercise5 {
 		
 		
 		//Problem 11 
-		 int sum = 0;
+		/* int sum = 0;
 		int n = 4;
 		int i = 0;
 
@@ -90,7 +90,7 @@ public class Exercise5 {
 		    i++;
 		}
 
-		System.out.println(sum); 
+		System.out.println(sum); */
 
 		
 	}
