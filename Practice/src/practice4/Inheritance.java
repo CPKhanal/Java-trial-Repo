@@ -12,9 +12,9 @@ class Base{
 		this.x = x;
 	}
 
-	public void printMe() {
+	/*public void printMe() {
 		System.out.println("I am a constructor");
-	}
+	}*/
 }
 class Derived extends Base{
 	int y;
